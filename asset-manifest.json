@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/name-job-page/static/css/main.9345b6e2.css",
+    "main.js": "/name-job-page/static/js/main.16fcfd47.js",
+    "index.html": "/name-job-page/index.html",
+    "main.9345b6e2.css.map": "/name-job-page/static/css/main.9345b6e2.css.map",
+    "main.16fcfd47.js.map": "/name-job-page/static/js/main.16fcfd47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9345b6e2.css",
+    "static/js/main.16fcfd47.js"
+  ]
+}
